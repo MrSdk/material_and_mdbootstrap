@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mdbootstrap.com/docs/angular/">
-    <img width="500" src="https://de12-engine.flamingtext.com/netfu/tmp28001/coollogo_com-3947399.png">
+    <img width="500" src="https://de7-engine.flamingtext.com/netfu/tmp28001/coollogo_com-3094266.png">
   </a>
 </p>
 
@@ -10,12 +10,7 @@
 
 <p align="center">
   Built with <b>Angular 8, Bootstrap 4 and TypeScript</b>. CLI version available. Absolutely no jQuery.
-</p> 
-<p align="center">
-  <a href="https://mdbootstrap.com/docs/angular/">
-    <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb-angular.png">
-  </a>
-</p>
+</p>  
 
 <p align="center">
   All fully responsive. All compatible with different browsers.
