@@ -1,17 +1,22 @@
 <p align="center">
   <a href="https://mdbootstrap.com/docs/angular/">
+    <img width="500" src="https://de12-engine.flamingtext.com/netfu/tmp28001/coollogo_com-3947399.png">
+  </a>
+</p>
+
+
+
+<h1 align="center">Material and MDBootstrap for Angular by MrSdk</h1>
+
+<p align="center">
+  Built with <b>Angular 8, Bootstrap 4 and TypeScript</b>. CLI version available. Absolutely no jQuery.
+</p> 
+<p align="center">
+  <a href="https://mdbootstrap.com/docs/angular/">
     <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb-angular.png">
   </a>
 </p>
 
-<h1 align="center">Angular Bootstrap with Material Design</h1>
-
-<p align="center">
-  Built with <b>Angular 8, Bootstrap 4 and TypeScript</b>. CLI version available. Absolutely no jQuery.
-</p>
-<p align="center">
-  <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, TypeScript modules, SASS files and many more.
-</p>
 <p align="center">
   All fully responsive. All compatible with different browsers.
 </p>
@@ -68,7 +73,7 @@ ________
 
 - Clone following repo:
 ```javascript
-git clone https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design.git .
+git clone https://github.com/MrSdk/material_and_mdbootstrap.git .
 ```
 note "." at the end. It will clone files directly into current folder.
 - Run `npm i`
