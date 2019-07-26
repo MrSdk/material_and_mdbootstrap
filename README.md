@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mdbootstrap.com/docs/angular/">
-    <img width="500" src="https://de7-engine.flamingtext.com/netfu/tmp28001/coollogo_com-3094266.png">
+    <img width="500" src="https://de14-engine.flamingtext.com/netfu/tmp28008/coollogo_com-14439490.png">
   </a>
 </p>
 
